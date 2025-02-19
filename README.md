@@ -1,6 +1,6 @@
 # 🌞 IoT Solar Monitoring App
 
-**A real-time solar energy monitoring system using IoT, React, and Next.js**
+**An IoT-enabled Solar PV Data Logger with an Interactive Dashboard designed for real-time monitoring and analysis of solar energy systems.**
 
 ## 📌 About the Project
 This project is an **IoT-based Solar Monitoring System** designed to track and analyze solar panel performance in real time. It integrates **sensor data, cloud-based storage, and an intuitive web dashboard** to provide users with insights into energy generation, efficiency, and system health.
